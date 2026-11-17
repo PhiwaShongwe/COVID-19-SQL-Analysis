@@ -4,7 +4,7 @@ I took two raw COVID-19 CSV files, cleaned them in PostgreSQL using a bronze / s
 
 [**View the interactive dashboard on Tableau Public**](https://public.tableau.com/shared/47FHYG57T?:display_count=n&:origin=viz_share_link)
 
-<img src="dashboard.png" alt="COVID-19 dashboard" width="800">
+<img src="COVID-19 DASHBOARD.png" alt="COVID-19 dashboard" width="800">
 
 **Data:** [Our World in Data COVID-19 dataset](https://github.com/owid/covid-19-data), 85,171 rows per file, 1 January 2020 to 30 April 2021, 210 countries.
 **Tools:** PostgreSQL, pgAdmin 4, Tableau Public.
